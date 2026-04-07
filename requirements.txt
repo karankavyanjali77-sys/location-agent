@@ -1,0 +1,7 @@
+google-adk>=0.3.0
+google-cloud-bigquery
+mcp[cli]
+fastapi
+uvicorn
+httpx
+pydantic
